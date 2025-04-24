@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calculate">Calcular</string>
+    <string name="clear_data">Borrar Base de Datos</string>
+    <string name="randomize">Randomizar</string>
+    <string name="select_breed">¿Raza?</string>
+    <string name="factorial_1"><![CDATA[
+        El factorial de un número entero positivo n se define como el producto de todos
+        los números enteros positivos desde n hasta 1.
+
+        \n\nEjemplo:
+        \n· Factorial de 3: 3! = 3 × 2 × 1 = 6
+        \n· Factorial de 5: 5! = 5 × 4 × 3 × 2 × 1 = 120
+        ]]></string>
+    <string name="factorial_0">Cálculo de factorial</string>
+    <string name="factorial_2">Por favor, ingrese el número del que desea calcular su factorial:</string>
+    <string name="factorial_3">Factorial de…</string>
+    <string name="description">Descripción</string>
+    <string name="dogs_0">Randomizador de perros!</string>
+    <string name="dogs_1">"Haga click en el botón de abajo para cargar una nueva imagen!"</string>
+    <string name="dogs_2">Randomizador de perros!</string>
+    <string name="dogs_3">Randomizador de perros!</string>
+    <string name="dogs_4">Cualquiera</string>
+    <string name="events_0">"Registro y Visualización de Eventos del Ciclo de Vida"</string>
+    <string name="events_1">"A continuación se le presenta el listado de todos los eventos de ciclo de vida desde el la creación de esta app"</string>
+    <string name="events_2">"Ocurrencias de eventos:"</string>
+</resources>
